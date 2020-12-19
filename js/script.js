@@ -1,4 +1,4 @@
-let camera, scene, renderer, controls, loader, ring;
+let camera, scene, renderer, loader, ring;
 var element = $('.hero-text');
 $(window).scroll(function () {
   if($(window).scrollTop() > 0) {
